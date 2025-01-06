@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>Bookings</title>
+</head>
+<body>
+<h1>Booking List</h1>
+<table>
+  <thead>
+  <tr>
+    <th>ID</th>
+    <th>Hotel</th>
+    <th>Guest</th>
+    <th>Date</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr th:each="booking : ${bookings}">
+    <td th:text="${booking.id}">ID</td>
+    <td th:text="${booking.hotelName}">Hotel Name</td>
+    <td th:text="${booking.guestName}">Guest Name</td>
+    <td th:text="${booking.bookingDate}">Date</td>
+  </tr>
+  </tbody>
+</table>
+<p th:if="${error}" th:text="${error}" style="color:red;"></p>
+</body>
+</html>
