@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Front_Admin.iml" filepath="$PROJECT_DIR$/.idea/modules/Front_Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Front_Admin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Front_Admin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Front_Admin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Front_Admin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/booking-service.iml" filepath="$PROJECT_DIR$/.idea/modules/booking-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/booking-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/booking-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/booking-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/booking-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-service.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/frontend-service.iml" filepath="$PROJECT_DIR$/.idea/modules/frontend-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/frontend-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/frontend-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/frontend-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/frontend-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-service.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hotel-service.iml" filepath="$PROJECT_DIR$/.idea/modules/hotel-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hotel-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hotel-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hotel-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hotel-service.test.iml" />
+    </modules>
+  </component>
+</project>
