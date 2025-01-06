@@ -52,8 +52,7 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 | 요구사항 ID  | AC-US-001, HO-DA-002                   |
 | 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
 
-![1 main](https://github.com/user-attachments/assets/e9632c18-1445-4727-b119-e8b2f951c07c)
-
+![Animation](https://github.com/user-attachments/assets/046705f0-4282-4020-9b06-e4e3bc92b856)
 
 
 ---
@@ -66,7 +65,7 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 | 요구사항 ID  | HO-DA-002, AC-AD-005            |
 | 설명         | 호텔명과 지역, 옵션별로 검색할 수 있다. |
 
-![2  메인화면_](https://github.com/user-attachments/assets/2a73ce5f-6a8e-4ff7-ba15-8db35ae6cd3d)
+![Animation1](https://github.com/user-attachments/assets/1497bc8d-71a4-4291-b5d3-24da7cb24f10)
 
 
 ---
@@ -79,7 +78,9 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 | 요구사항 ID  | AC-US-005, HO-BO-002, HO-BO-003                   |
 | 설명         | 호텔 항목을 누르면 모달이 나타나서 예약할 수 있다. |
 
-![1 메인화면_호텔선택](https://github.com/user-attachments/assets/23fca48f-875d-43c4-8b2c-cee9e8fd6200)
+
+![Animation2](https://github.com/user-attachments/assets/4225b69c-7f29-4b5a-9a66-992065566b32)
+
 
 </details>
 
