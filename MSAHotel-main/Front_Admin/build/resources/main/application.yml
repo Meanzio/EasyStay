@@ -25,15 +25,17 @@ spring:
 server:
   port: 7777
 
+  spring.jpa.hibernate.ddl-auto: create
+  spring.jpa.show-sql: true
+
 eureka:
   client:
     fetch-registry: true
     register-with-eureka: true
     service-url:
-      defaultZone: http://127.0.0.1:8761/eureka
+      defaultZone: http://localhost:8761/eureka/
   instance:
     lease-expiration-duration-in-seconds: 2
 
-  # 정적 리소스 경로 설정
   resources:
     static-locations: file:///C:/EasyStay/img/user/
