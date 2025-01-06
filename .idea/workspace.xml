@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f524d768-ffa9-44d4-aa48-64118b6fb7f1" name="변경" comment="ver.0.1">
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/frontend-service/bin/main/templates/hotels.html" beforeDir="false" afterPath="$PROJECT_DIR$/MSAHotel-main/frontend-service/bin/main/templates/hotels.html" afterDir="false" />
-    </list>
+    <list default="true" id="f524d768-ffa9-44d4-aa48-64118b6fb7f1" name="변경" comment="ver.0.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -113,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736122160126</updated>
-      <workItem from="1736122161729" duration="1513000" />
+      <workItem from="1736122161729" duration="1838000" />
     </task>
     <task id="LOCAL-00001" summary="ver.0.1">
       <option name="closed" value="true" />
@@ -147,7 +145,47 @@
       <option name="project" value="LOCAL" />
       <updated>1736123557034</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ver.0.1">
+      <option name="closed" value="true" />
+      <created>1736123704880</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736123704880</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ver.0.1">
+      <option name="closed" value="true" />
+      <created>1736123748657</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736123748657</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ver.0.1">
+      <option name="closed" value="true" />
+      <created>1736123773346</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736123773346</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ver.0.1">
+      <option name="closed" value="true" />
+      <created>1736123845502</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736123845502</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ver.0.1">
+      <option name="closed" value="true" />
+      <created>1736123887299</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736123887299</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
