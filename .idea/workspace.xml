@@ -5,221 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f524d768-ffa9-44d4-aa48-64118b6fb7f1" name="변경" comment="ver.0.1">
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/8.11.1/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/8.11.1/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/8.11.1/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/8.11.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/8.11.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/8.11.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/8.11.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/8.11.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/8.11.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.idea/modules/Front_Admin.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/FrontAdminApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/WebConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/controller/AdminController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/controller/ApiController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/dto/JoinDTO$JoinDTOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/dto/JoinDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/dto/TableDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/entity/User$UserBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/repository/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/security/JwtUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/service/ProfileImg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/service/ServiceInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/service/TableService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/com/playdata/front_admin/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/static/css/user_table.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/static/js/userlist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/templates/join/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/templates/join/wellcome.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/templates/user/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/templates/user/mypage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/main/templates/user/mypage_edit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/bin/test/com/playdata/front_admin/FrontAdminApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/reports/problems/problems-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/resources/main/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/resources/main/static/css/user_table.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/resources/main/static/js/userlist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/resources/main/templates/join/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/resources/main/templates/join/wellcome.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/resources/main/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/resources/main/templates/user/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/resources/main/templates/user/mypage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/resources/main/templates/user/mypage_edit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/tmp/compileJava/compileTransaction/stash-dir/AdminController.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/Front_Admin/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/8.11.1/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/8.11.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/8.11.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/8.11.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/8.11.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/8.11.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/8.11.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.idea/modules/booking-service.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/build/classes/java/main/com/example/bookingservice/BookingServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/build/classes/java/main/com/example/bookingservice/config/RestTemplateConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/build/classes/java/main/com/example/bookingservice/controller/BookingController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/build/classes/java/main/com/example/bookingservice/entity/Booking$BookingBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/build/classes/java/main/com/example/bookingservice/entity/Booking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/build/classes/java/main/com/example/bookingservice/repository/BookingRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/build/classes/java/main/com/example/bookingservice/service/BookingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/build/resources/main/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/booking-service/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/8.11.1/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/8.11.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/8.11.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/8.11.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/8.11.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/8.11.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/8.11.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/build/classes/java/main/com/example/discoveryservice/DiscoveryServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/build/resources/main/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/discovery-service/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/com/example/gatewayservice/GatewayServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/css/hotels/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/css/hotels/modal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/css/hotels/mypage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/css/hotels/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/css/hotels/setting.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/img/hotels/abc1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/img/hotels/background_img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/img/hotels/hop-4828479_1280.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/img/hotels/test.jpg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/js/hotels/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/js/hotels/hotel_card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/js/hotels/hotel_list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/js/hotels/hotel_research.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/js/hotels/login_modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/js/hotels/modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/main/static/js/hotels/sigup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/bin/test/com/example/gatewayservice/GatewayServiceApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/java/com/example/gatewayservice/GatewayServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/css/hotels/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/css/hotels/modal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/css/hotels/mypage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/css/hotels/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/css/hotels/setting.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/img/hotels/abc1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/img/hotels/background_img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/img/hotels/hop-4828479_1280.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/img/hotels/test.jpg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/js/hotels/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/js/hotels/hotel_card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/js/hotels/hotel_list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/js/hotels/hotel_research.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/js/hotels/login_modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/js/hotels/modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/main/resources/static/js/hotels/sigup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/gateway-service/src/test/java/com/example/gatewayservice/GatewayServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/8.11.1/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/8.11.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/8.11.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/8.11.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/8.11.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/8.11.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/8.11.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.idea/modules/hotel-service.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/HotelServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/controller/HotelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/dto/HotelLocalRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/dto/HotelNameRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/dto/HotelOptionRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/entity/Hotel$HotelBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/entity/Hotel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/entity/HotelAvailableDate$HotelAvailableDateBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/entity/HotelAvailableDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/entity/HotelContent$HotelContentBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/entity/HotelContent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/entity/HotelOption$HotelOptionBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/entity/HotelOption.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/entity/HotelTitleImg$HotelTitleImgBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/entity/HotelTitleImg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/exception/HotelNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/repository/HotelOptionRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/repository/HotelRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/service/HotelDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/service/HotelDateService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/service/HotelService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/service/HotelServiceImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/classes/java/main/com/example/hotelservice/service/HotelTitleImgService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/reports/problems/problems-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/resources/main/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSAHotel-main/hotel-service/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,9 +79,10 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.FrontAdminApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/EasyStay/MSAHotel-main/discovery-service",
+    "last_opened_file_path": "C:/EasyStay",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -304,7 +91,7 @@
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -344,6 +131,7 @@
       <workItem from="1736122161729" duration="1838000" />
       <workItem from="1736124371894" duration="930000" />
       <workItem from="1736126178614" duration="283000" />
+      <workItem from="1736126496449" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="ver.0.1">
       <option name="closed" value="true" />
@@ -449,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736126242296</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ver.0.1">
+      <option name="closed" value="true" />
+      <created>1736126522968</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736126522968</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
