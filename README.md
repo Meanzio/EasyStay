@@ -19,8 +19,8 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 
 ## 팀원 역할 분담
 - **이상엽**: Booking Service
-- **김선영**: Hotel Service 개발
-- **김민지**: User Service, Front Server 개발
+- **김선영**: Hotel Service 
+- **김민지**: User Service, UserAdmin, Hotel Service, BookingSerivce, Front Server
 
 ---
 
