@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f524d768-ffa9-44d4-aa48-64118b6fb7f1" name="변경" comment="ver.0.1" />
+    <list default="true" id="f524d768-ffa9-44d4-aa48-64118b6fb7f1" name="변경" comment="ver.0.1">
+      <change beforePath="$PROJECT_DIR$/MSAHotel-main/frontend-service/bin/main/templates/hotels.html" beforeDir="false" afterPath="$PROJECT_DIR$/MSAHotel-main/frontend-service/bin/main/templates/hotels.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -71,6 +73,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
@@ -108,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736122160126</updated>
-      <workItem from="1736122161729" duration="1188000" />
+      <workItem from="1736122161729" duration="1513000" />
     </task>
     <task id="LOCAL-00001" summary="ver.0.1">
       <option name="closed" value="true" />
@@ -126,7 +131,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736123147554</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ver.0.1">
+      <option name="closed" value="true" />
+      <created>1736123509040</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736123509040</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ver.0.1">
+      <option name="closed" value="true" />
+      <created>1736123557034</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736123557034</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +158,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
