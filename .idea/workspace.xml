@@ -48,12 +48,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Meanzio"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ddffe189-dcf3-4d42-944c-8f1e3937ed8e" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Meanzio/EasyStay.git",
+    "accountId": "4c9b7078-209b-4412-b001-5bbfbb11f0fa"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2rERHRCRP4MmSn2u42Ai9t0OsbY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -63,7 +78,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/EasyStay",
     "node.js.detected.package.eslint": "true",
@@ -74,7 +90,7 @@
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -112,6 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1736122160126</updated>
       <workItem from="1736122161729" duration="1838000" />
+      <workItem from="1736124371894" duration="930000" />
     </task>
     <task id="LOCAL-00001" summary="ver.0.1">
       <option name="closed" value="true" />
@@ -185,7 +202,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736123887299</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ver.0.1">
+      <option name="closed" value="true" />
+      <created>1736124484774</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736124484774</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ver.0.1">
+      <option name="closed" value="true" />
+      <created>1736124804421</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1736124804421</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
