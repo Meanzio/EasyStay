@@ -40,36 +40,159 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 ## 화면 설계서
 
 
-**1. 메인 페이지**
-![image](https://github.com/user-attachments/assets/0732ae76-6812-49b2-a899-2a39fe95a817)
-![image](https://github.com/user-attachments/assets/5d4470ae-25cd-40cf-a6b2-9017931a9614)
 
-![image](https://github.com/user-attachments/assets/40a2ce81-f7b9-47e5-a4b4-a5745120fba4)
-![image](https://github.com/user-attachments/assets/674231a3-cb3b-4245-b947-dcdd8ade2d2f)
-![image](https://github.com/user-attachments/assets/f81b8af5-37aa-4d6a-a4a7-98c33eddee0c)
+<details>
+<summary><strong>1. 메인 페이지</strong></summary>
 
-![image](https://github.com/user-attachments/assets/5d115c6f-ec4f-4c75-a171-99a638a29644)
-![image](https://github.com/user-attachments/assets/9bd81204-07d4-45ee-ba2b-075c7348f30c)
-![image](https://github.com/user-attachments/assets/8994d020-3be3-483b-af79-3198cb7664d0)
+### 1.1 전체화면
+
+| 항목         | 내용                                    |
+|--------------|-----------------------------------------|
+| 경로         | main                                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+
+![이미지]
+
+---
+
+### 1.2 조건 검색
+
+| 항목         | 내용                                    |
+|--------------|-----------------------------------------|
+| 경로         | main                                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+
+![이미지]
+
+---
+
+### 1.3 호텔 예약
+
+| 항목         | 내용                                    |
+|--------------|-----------------------------------------|
+| 경로         | main                                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+
+![이미지]
+
+</details>
 
 
 
 
-**2. 마이페이지**
-![image](https://github.com/user-attachments/assets/b5175911-5ab9-4eee-8af3-c8d7008b71ad)
-![image](https://github.com/user-attachments/assets/4b70f950-9b87-44da-b561-686cdcbf132d)
+<details>
+<summary>##<strong>2. 로그인/ 회원가입</strong></summary>
+
+### 2.1 로그인(사용자)
+
+| 항목         | 내용                                    |
+|--------------|-----------------------------------------|
+| 경로         | main                                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+
+![이미지]
+
+---
+
+### 2.2 로그인(관리자)
+
+| 항목         | 내용                                    |
+|--------------|-----------------------------------------|
+| 경로         | main                                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+
+![이미지]
+
+---
+
+### 2.3 회원가입
+
+| 항목         | 내용                                    |
+|--------------|-----------------------------------------|
+| 경로         | main                                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+
+![이미지]
+
+</details>
+
+
+<details>
+<summary><strong>3. 마이페이지</strong></summary>
+
+### 3.1 마이페이지
+
+| 항목         | 내용                                    |
+|--------------|-----------------------------------------|
+| 경로         | main                                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+
+![이미지]
+
+---
+
+### 3.2 나의 예약현황
+
+| 항목         | 내용                                    |
+|--------------|-----------------------------------------|
+| 경로         | main                                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+
+![이미지]
+
+</details>
 
 
 
-**3. 관리자 페이지**
+<details>
+<summary><strong>4. 관리자</strong></summary>
 
-![image](https://github.com/user-attachments/assets/94bfa49f-6347-416c-aeba-4c2e59aec74d)
+### 4.1 회원관리
+
+| 항목         | 내용                                    |
+|--------------|-----------------------------------------|
+| 경로         | main                                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+
+![이미지]
+
+---
+
+### 4.2 회원추가
+
+| 항목         | 내용                                    |
+|--------------|-----------------------------------------|
+| 경로         | main                                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+
+![이미지]
+
+---
+
+### 4.2 회원삭제
+
+| 항목         | 내용                                    |
+|--------------|-----------------------------------------|
+| 경로         | main                                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+
+![이미지]
 
 
-![image](https://github.com/user-attachments/assets/74ddcc7f-eb76-4194-b73d-968f5f1b1744)
-![image](https://github.com/user-attachments/assets/aa17986f-b7d9-4915-a425-7bf4d0a89928)
-![image](https://github.com/user-attachments/assets/c44c436c-31be-44a6-ae2e-35d4143f5e03)
 
+
+</details>
 
 
 ---
