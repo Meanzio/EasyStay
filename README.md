@@ -31,7 +31,8 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 ---
 
 ## 요구사항 명세서
-![요구사항 명세서](images/image.png)
+![image](https://github.com/user-attachments/assets/4b5a0d77-b6e5-464c-aaca-50ff223ce47c)
+
 
 ---
 
