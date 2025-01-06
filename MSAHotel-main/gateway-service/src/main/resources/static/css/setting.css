@@ -1,0 +1,115 @@
+@import "reset.css";
+@import "layout.css";
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Fill');
+
+
+.btn_rl {
+    font-weight: 600;
+    display: flex;
+    color: #7f7b7b;
+    padding: 6px 14px 8px 14px;
+    border: 2px solid #7f7b7b;
+    border-radius: 99em;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+.arrow {
+    width: 20px;
+    height: 8px;
+    display: block;
+    position: relative;
+    animation: none;
+}
+
+.arrow::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 4px; 
+    right: 0px; 
+    transform: translateY(-45%) rotate(45deg); 
+    border-top: 2px solid #7f7b7b;
+    border-right: 2px solid #7f7b7b;
+}
+
+.arrow::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 20px;
+    height: 10px;
+    top: 3.8px; 
+    right: 0; 
+    border-top: 2px solid #7f7b7b;
+}
+
+
+
+
+.tag_group_bg1 button,
+.tag_group_bg1 a {
+    display: block;
+    background-color: #e3dede;
+    font-weight: 600;
+    outline: none;
+    border: none;
+    font-size: 1em;
+    padding: 10px 16px;
+    border-radius: 99em;
+    color: #5c5454;
+}
+input {
+    font-size: 1em;
+    padding: 14px 10px;
+    width: 100%;
+    border-radius: 9em;
+    height: 24px;
+    border: 2px solid #7f7b7b;
+}
+
+
+button:focus {
+    border: none;
+    outline: none;
+}
+
+
+.input_block,
+.input_flex {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.input_block label,
+.input_flex label {
+    min-width: 100px;
+    font-weight: 600;
+}
+
+.tag_group {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.tag_group li {
+    display: flex;
+    /* background-color: #e3dede; */
+    font-weight: 600;
+    font-size: 0.8em;
+    border: 2px solid #5c5454;
+    padding: 10px 14px;
+    border-radius: 99em;
+}

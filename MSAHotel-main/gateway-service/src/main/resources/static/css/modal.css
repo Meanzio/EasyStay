@@ -1,0 +1,141 @@
+
+#modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#modal {
+    width: 400px;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 99;
+    padding: 2em;
+    border-radius: 2em;
+}
+
+#modal_contents,
+#modal form,
+#modal form div {
+    display: flex;
+    flex-direction: column;
+}
+
+
+#modal form {
+    gap: 40px;
+}
+
+
+
+
+
+
+#modal .id_input,
+#modal .pass_input {
+    gap: 16px;
+}
+
+
+#modal input {
+    width: auto;
+    border: 2px solid #ccc;
+    padding: 10px 14px;
+    margin: 0;
+}
+
+#modal .user_btn {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+
+
+
+#modal .modal_head {
+    display: flex;
+    margin-bottom: 40px;
+    justify-content: space-between;
+    align-items: end;
+}
+
+
+#modal .modal_head h1 {
+    font-size: 1.4em;
+    margin-top: 14px;
+    font-weight: 660;
+}
+
+#modal .modal_head p {
+    font-weight: 600;
+    color: #f26b0f;
+}
+
+#modal .user_signup {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+
+#modal .login_btn {
+    padding: 10px 20px;
+    border-radius: 99em;
+    outline: none;
+    border: none;
+    background-color: #f26b0f;
+    color: #fff;
+    transition: background-color 0.2s ease;
+}
+
+
+#modal .login_btn:hover {
+    background-color: #d35b0b;
+}
+
+
+.close_btn {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .close_icon {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+  }
+  
+  .close_icon::before,
+  .close_icon::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: rgb(175, 175, 175);
+    left: 0;
+  }
+  
+  .close_icon::before {
+    transform: rotate(45deg); 
+  }
+  
+  .close_icon::after {
+    transform: rotate(-45deg); 
+  }
+  
