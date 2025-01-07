@@ -38,4 +38,4 @@ eureka:
     lease-expiration-duration-in-seconds: 2
 
   resources:
-    static-locations: file:///C:/EasyStay/img/user/
+    static-locations: file://C:/EasyStay/img/user/

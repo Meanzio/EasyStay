@@ -6,49 +6,50 @@
 	<title>회원가입</title>
 </head>
 <body>
-	<form th:action="@{/join}" method="post" enctype="multipart/form-data" onsubmit="return validateForm()">
+	<form th:action="@{/admin/join}" method="post" enctype="multipart/form-data" onsubmit="return validateForm()">
 		<!-- 프로필 이미지 업로드 -->
 		<div>
 			<img id="preview-image" src="https://via.placeholder.com/150" alt="프로필 이미지" onclick="triggerFileInput()" style="cursor: pointer; width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-			<input type="file" id="profileImg" name="image" accept="image/*" onchange="updatePreviewImage(this)" style="display: none;">
+			<input type="file" id="profileImg" name="profileImage" accept="image/*" onchange="updatePreviewImage(this)" style="display: none;">
+			<p>프로필 이미지를 클릭하여 업로드하세요.</p>
 		</div>
 		
 		<div>
 			<label for="name">이름</label>
-			<input type="text" id="name" name="name" required>
+			<input type="text" id="name" name="name" placeholder="홍길동" required>
 		</div>
 		
 		<div>
 			<label for="nickname">닉네임</label>
-			<input type="text" id="nickname" name="nickname" required>
+			<input type="text" id="nickname" name="nickname" placeholder="사용자123" required>
 			<button type="button" onclick="checkNickname()">중복 확인</button>
 		</div>
-		<div id="nickname-error" class="error-message"></div>
+		<div id="nickname-error" class="error-message" style="color: red;"></div>
 		
 		<div>
 			<label for="pass">비밀번호</label>
-			<input type="password" id="pass" name="pass" required>
+			<input type="password" id="pass" name="pass" placeholder="비밀번호를 입력하세요" required>
 		</div>
 		
 		<div>
 			<label for="confirm-pass">비밀번호 확인</label>
-			<input type="password" id="confirm-pass" name="confirmPass" required>
+			<input type="password" id="confirm-pass" name="confirmPass" placeholder="비밀번호를 다시 입력하세요" required>
 		</div>
-		<div id="password-error" class="error-message"></div>
+		<div id="password-error" class="error-message" style="color: red;"></div>
 		
 		<div>
 			<label for="email">이메일</label>
-			<input type="email" id="email" name="email" required>
+			<input type="email" id="email" name="email" placeholder="example@example.com" required>
 		</div>
 		
 		<div>
 			<label for="addr">주소</label>
-			<input type="text" id="addr" name="addr">
+			<input type="text" id="addr" name="addr" placeholder="서울특별시 중구 을지로 1가">
 		</div>
 		
 		<div>
 			<label for="phone">전화번호</label>
-			<input type="text" id="phone" name="phone">
+			<input type="text" id="phone" name="phone" placeholder="010-1234-5678">
 		</div>
 		
 		<div>
@@ -61,7 +62,7 @@
 					<input type="radio" name="sex" value="F" id="female"> 여성
 				</label>
 				<label>
-					<input type="radio" name="sex" value="" id="none"> 없음
+					<input type="radio" name="sex" value="N" id="none"> 선택 안 함
 				</label>
 			</div>
 		</div>

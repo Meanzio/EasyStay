@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
+import java.time.LocalDate;
 import java.util.Optional;
 
 @Controller
@@ -38,22 +39,50 @@ public class AdminController {
         return "/join/register";
     }
 
+
+    // 회원가입 페이지
     @PostMapping("/join")
-    public String userRegister(@RequestParam String name, @RequestParam String nickname,
-                               @RequestParam String email, @RequestParam String pass,
-                               @RequestParam String confirmPass, Model model) {
+    public String userRegister(@RequestParam String name,
+                               @RequestParam String nickname,
+                               @RequestParam String email,
+                               @RequestParam String pass,
+                               @RequestParam String addr,
+                               @RequestParam String sex,
+                               @RequestParam String phone,
+                               @RequestParam String confirmPass,
+                               @RequestParam String birthDate,
+                               @RequestParam("profileImage") MultipartFile profileImage,
+                               Model model) {
         if (!pass.equals(confirmPass)) {
             model.addAttribute("error", "비밀번호가 일치하지 않습니다.");
-            return "redirect:/join";
+            return "redirect:/admin/join";
         }
-        User newUser = new User();
-        newUser.setName(name);
-        newUser.setNickname(nickname);
-        newUser.setEmail(email);
-        newUser.setPassword(pass);
-        return "redirect:/admin/wellcome";
-    }
 
+        String profileImagePath = null;
+
+        try {
+            profileImagePath = profileImg.saveFile(profileImage);
+        } catch (IOException e) {
+            model.addAttribute("error", "이미지 업로드 중 오류가 발생했습니다.");
+            return "redirect:/admin/join";
+        }
+
+        User newUser = User.builder()
+                .name(name)
+                .nickname(nickname)
+                .email(email)
+                .password(pass)
+                .phone(phone)
+                .addr(addr)
+                .sex(sex)
+                .birthDate(LocalDate.parse(birthDate))
+                .profileImg(profileImagePath)
+                .build();
+
+        userService.save(newUser);
+
+        return "redirect:/admin/list";
+    }
 
 
     @GetMapping("/wellcome")

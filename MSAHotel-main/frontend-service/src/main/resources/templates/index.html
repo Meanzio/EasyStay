@@ -1,101 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<meta content="width=device-width, initial-scale=1.0" name="viewport">
-	<title>호텔 예약 서비스</title>
-	<link href="/css/setting.css" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Booking Service</title>
+  <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-	<div class="header">
-		<div class="wrap">
-			<ul class="nav_top">
-				<li><a href="#signup">사용자페이지</a></li>
-				<li><a href="#signup">관리자페이지</a></li>
-			</ul>
-			<div class="nav_middle">
-				<h1>StayFinder</h1>
-				<div class="nav_bottom">
-					<p>HOTEL 검색방법</p>
-					<p><a class="btn_rl" href="#map">WHERE MY DREAM HOTEL ? ></a></p>
-				</div>
-				<ul>
-					<li><a href="#login">로그인</a></li>
-					<li><a href="#signup">회원가입</a></li>
-				</ul>
-			</div>
-			<ul>
-				<li><a href="#search-hotel">호텔별 검색</a></li>
-				<li><a href="#search-category">지역별 검색</a></li>
-				<li><a href="#search-category">상황별 검색</a></li>
-			</ul>
-		</div>
-	</div>
-	
-	<!-- 검색 영역 -->
-	<div class="hotel_research" id="search-hotel">
-		<div class="wrap">
-			<h2>호텔 이름을 검색하세요</h2>
-			<form action="/search" method="get">
-				<label for="hotel-name">호텔명</label>
-				<input id="hotel-name" name="hotel-name" placeholder="예: 해운대 호텔" type="text">
-				
-				<label for="check-in">체크인 날짜</label>
-				<input id="check-in" name="check-in" type="date">
-				
-				<label for="guests">투숙 인원</label>
-				<input id="guests" min="1" name="guests" placeholder="인원 수" type="number">
-				
-				<h3>카테고리 선택</h3>
-				<ul class="categories">
-					<li><input id="category1" name="category" type="checkbox" value="가족 여행"><label for="category1">가족 여행</label></li>
-					<li><input id="category2" name="category" type="checkbox" value="커플 여행"><label for="category2">커플 여행</label></li>
-					<li><input id="category3" name="category" type="checkbox" value="비즈니스"><label for="category3">비즈니스</label></li>
-					<li><input id="category4" name="category" type="checkbox" value="혼자 여행"><label for="category4">혼자 여행</label></li>
-				</ul>
-				
-				<button type="submit">검색</button>
-			</form>
-		</div>
-	</div>
-	
-	<!-- 호텔 카드 영역 (테이블로 변경) -->
-	<section class="hotel_card_area" id="hotels">
-		<div class="wrap">
-			<h2>추천 호텔</h2>
-			<table class="hotel_cards">
-				<tr>
-					<td class="hotel_card">
-						<img alt="호텔 이미지" src="/images/hotel1.jpg">
-					</td>
-					<td class="hotel_card_info">
-						<h3>제주 힐링 리조트</h3>
-						<p>아름다운 해변과 자연 속에서 휴식을 즐길 수 있는 리조트입니다.</p>
-						<p><strong>가격:</strong> ₩200,000 / 박</p>
-						<p><strong>숙박 인원:</strong> 최대 4명</p>
-						<ul class="categories">
-							<li>가족 여행</li>
-							<li>해변 근처</li>
-						</ul>
-					</td>
-				</tr>
-				<tr>
-					<td class="hotel_card">
-						<img alt="호텔 이미지" src="/images/hotel2.jpg">
-					</td>
-					<td class="hotel_card_info">
-						<h3>서울 럭셔리 호텔</h3>
-						<p>도심 속에서 최고의 서비스를 제공하는 럭셔리 호텔입니다.</p>
-						<p><strong>가격:</strong> ₩350,000 / 박</p>
-						<p><strong>숙박 인원:</strong> 최대 2명</p>
-						<ul class="categories">
-							<li>커플 여행</li>
-							<li>비즈니스</li>
-						</ul>
-					</td>
-				</tr>
-			</table>
-		</div>
-	</section>
+<h1>Welcome to Booking Service</h1>
+<a href="/ ">View All Bookings</a>
 </body>
 </html>

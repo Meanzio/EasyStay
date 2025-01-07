@@ -33,7 +33,7 @@ public class User {
 
     @JsonProperty("profileImg")
     @Column(name = "profile_img", nullable = false, length = 1000)
-    private String profileImg;  // UUID로 저장된 파일명 (경로 포함)
+    private String profileImg;
 
     @JsonProperty("birthDate")
     @Column(name = "birth_date", nullable = false)
