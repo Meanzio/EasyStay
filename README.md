@@ -3,39 +3,39 @@
 ## 프로젝트명
 **MSA를 이용한 호텔 예약 서비스**
 
----
+--
 
 ## 팀원
 - **이상엽**
 - **김선영**
 - **김민지**
 
----
+--
 
 ## 프로젝트 개요
 MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축한 프로젝트입니다.
 
----
+--
 
 ## 팀원 역할 분담
 - **이상엽**: Booking Service
 - **김선영**: Hotel Service 
 - **김민지**: User Service, UserAdmin, Hotel Service, BookingSerivce, Front Server
 
----
+--
 
 ## 기술 스택
 - **Frontend**: Thymeleaf
 - **Backend**: Spring Boot, Java, MySQL
 
----
+--
 
 ## 요구사항 명세서
 ![image](https://github.com/user-attachments/assets/70d3a814-e046-4a33-9c1b-242ef7689c22)
 
 
 
----
+--
 
 ## 화면 설계서
 
