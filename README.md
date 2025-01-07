@@ -94,9 +94,9 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 
 | 항목         | 내용                                    |
 |--------------|-----------------------------------------|
-| 경로         | main                                   |
-| 요구사항 ID  | AC-US-001, HO-DA-002                   |
-| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+| 경로         | main > user_login                            |
+| 요구사항 ID  | AC-US-001                               |
+| 설명         | 일반 사용자 로그인이 가능하다.            |
 
 ![KakaoTalk_20250105_151734976-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/33358b2c-b08e-42e7-9377-390e9631653c)
 
@@ -107,9 +107,9 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 
 | 항목         | 내용                                    |
 |--------------|-----------------------------------------|
-| 경로         | main                                   |
-| 요구사항 ID  | AC-US-001, HO-DA-002                   |
-| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+| 경로         | main > amdin_login                      |
+| 요구사항 ID  | AC-AD-001                               |
+| 설명         | 관리자 로그인이 가능하다.                |
 
 ![Animation3](https://github.com/user-attachments/assets/ac4a04c8-f509-4dde-92e3-46a6ebaa2bec)
 
@@ -120,9 +120,9 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 
 | 항목         | 내용                                    |
 |--------------|-----------------------------------------|
-| 경로         | main                                   |
-| 요구사항 ID  | AC-US-001, HO-DA-002                   |
-| 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
+| 경로         | main > register, main > login > register      |
+| 요구사항 ID  | AC-US-002, AC-AD-002                  |
+| 설명         | 사용자를 추가 할 수 있다. |
 
 ![Animation4](https://github.com/user-attachments/assets/8970279d-f115-4dc0-92af-b3efb3eb38a3)
 
@@ -136,8 +136,8 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 
 | 항목         | 내용                                    |
 |--------------|-----------------------------------------|
-| 경로         | main                                   |
-| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 경로         | main                                             |
+| 요구사항 ID  | AC-US-001, HO-DA-002                             |
 | 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
 
 ![Animation5](https://github.com/user-attachments/assets/4c75f6f6-9d29-41f7-9ed6-015a51121221)
@@ -148,8 +148,8 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 
 | 항목         | 내용                                    |
 |--------------|-----------------------------------------|
-| 경로         | main                                   |
-| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 경로         | main > login > mypage                   |
+| 요구사항 ID  | AC-US-001, HO-DA-002                    |
 | 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
 
 ![Animation6](https://github.com/user-attachments/assets/f648b92c-75ce-4a9e-b160-d7012ec4b7a3)
@@ -179,11 +179,12 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 
 | 항목         | 내용                                    |
 |--------------|-----------------------------------------|
-| 경로         | main                                   |
+| 경로         | main > join                                  |
 | 요구사항 ID  | AC-US-001, HO-DA-002                   |
 | 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
 
-![이미지]
+![Animation8](https://github.com/user-attachments/assets/4d4d85b9-db28-4137-b718-0c9b5b0eae58)
+
 
 ---
 
@@ -191,11 +192,11 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 
 | 항목         | 내용                                    |
 |--------------|-----------------------------------------|
-| 경로         | main                                   |
-| 요구사항 ID  | AC-US-001, HO-DA-002                   |
+| 경로         | main                           |
+| 요구사항 ID  | AC-US-001, HO-DA-002                    |
 | 설명         | 호텔 리스트를 조회할 수 있으며 반응형을 지원한다. |
 
-![이미지]
+![Animation9](https://github.com/user-attachments/assets/3167fc99-c561-497b-a854-20d0a053b70c)
 
 
 
