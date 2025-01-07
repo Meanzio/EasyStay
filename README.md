@@ -3,39 +3,39 @@
 ## 프로젝트명
 **MSA를 이용한 호텔 예약 서비스**
 
---
+---
 
 ## 팀원
 - **이상엽**
 - **김선영**
 - **김민지**
 
---
+---
 
 ## 프로젝트 개요
 MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축한 프로젝트입니다.
 
---
+---
 
 ## 팀원 역할 분담
 - **이상엽**: Booking Service
 - **김선영**: Hotel Service 
 - **김민지**: User Service, UserAdmin, Hotel Service, BookingSerivce, Front Server
 
---
+---
 
 ## 기술 스택
 - **Frontend**: Thymeleaf
 - **Backend**: Spring Boot, Java, MySQL
 
---
+---
 
 ## 요구사항 명세서
 ![image](https://github.com/user-attachments/assets/70d3a814-e046-4a33-9c1b-242ef7689c22)
 
 
 
---
+---
 
 ## 화면 설계서
 
@@ -55,7 +55,7 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 ![Animation](https://github.com/user-attachments/assets/046705f0-4282-4020-9b06-e4e3bc92b856)
 
 
----
+
 
 #### 1.2 조건 검색 (미완성)
 
@@ -68,7 +68,6 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 ![Animation1](https://github.com/user-attachments/assets/1497bc8d-71a4-4291-b5d3-24da7cb24f10)
 
 
----
 
 #### 1.3 호텔 예약
 
@@ -101,7 +100,7 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 ![KakaoTalk_20250105_151734976-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/33358b2c-b08e-42e7-9377-390e9631653c)
 
 
----
+
 
 ### 2.2 로그인(관리자)
 
@@ -114,7 +113,7 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 ![Animation3](https://github.com/user-attachments/assets/ac4a04c8-f509-4dde-92e3-46a6ebaa2bec)
 
 
----
+
 
 ### 2.3 회원가입
 
@@ -142,7 +141,7 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 
 ![Animation5](https://github.com/user-attachments/assets/4c75f6f6-9d29-41f7-9ed6-015a51121221)
 
----
+
 
 ### 3.2 나의 예약현황
 
@@ -173,7 +172,7 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 ![Animation7](https://github.com/user-attachments/assets/ac9a0c2d-1928-45a1-83fe-61ecf27e0f99)
 
 
----
+
 
 ### 4.2 회원추가
 
@@ -186,7 +185,7 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 ![Animation8](https://github.com/user-attachments/assets/4d4d85b9-db28-4137-b718-0c9b5b0eae58)
 
 
----
+
 
 ### 4.2 회원삭제
 
