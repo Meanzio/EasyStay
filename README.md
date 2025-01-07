@@ -37,13 +37,33 @@ MSA(Microservice Architecture)를 활용하여 호텔 예약 서비스를 구축
 
 ![image](https://github.com/user-attachments/assets/b19ddf67-5a69-45f9-a96b-b557b584eb77)
 
+---
+
+## 화면설계
+
+<details>
+<summary><strong>1. 사용자</strong></summary>
 
 
+![image](https://github.com/user-attachments/assets/ddcd102c-08e3-4d66-afdc-a25a4c42f4eb)
+![스크린샷_7-1-2025_95449_127 0 0 1](https://github.com/user-attachments/assets/bd707717-5523-4e75-8400-f0b2ada919f6)
 
+</details>
+
+
+<details>
+<summary><strong>2. 관리자</strong></summary>
+   
+![스크린샷_7-1-2025_95521_127 0 0 1](https://github.com/user-attachments/assets/cac3da00-e26e-4252-96cb-3b7d41241e18)
+![image](https://github.com/user-attachments/assets/7ab2c298-5a22-4fbd-80f8-68f52601e840)
+![image](https://github.com/user-attachments/assets/dcc3bc4f-3c93-4092-aeb1-44778372cf76)
+
+
+</details>
 
 ---
 
-## 화면 설계서
+## 스토리보드
 
 
 
